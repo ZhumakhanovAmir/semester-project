@@ -1,7 +1,15 @@
-﻿# Accessible Learning — Semester Project (Lab 4)
+﻿# Accessible Learning Project
 
-## Как установить и запустить React-проект:
-1. Переключиться на ветку lab4: `git checkout lab4`
-2. Перейти в папку приложения: `cd client`
-3. Установить зависимости: `npm install`
-4. Запустить сервер разработки: `npm run dev`
+## Laboratory Work 5 - Node.js and Express Backend
+
+### 1. Run Backend Server
+cd server
+npm install
+node server.js
+
+Server runs at: http://localhost:3000
+
+### 2. Run React Frontend (Client)
+cd client
+npm install
+npm run dev
